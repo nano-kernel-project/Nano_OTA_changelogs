@@ -1,6 +1,6 @@
-{
-  "name" : "",
-  "Ver" : "",
-  "url" : "",
-  "miui_url" : ""
+{  
+   "name":"Nano Kernel V7",
+   "ver":7,
+   "url":"https://master.dl.sourceforge.net/project/nano-releases/AOSP/Nano_Kernel-rosy-20190624-0241-AOSP-v7.zip",
+   "miui_url":"https://master.dl.sourceforge.net/project/nano-releases/MIUI/Nano_Kernel-rosy-20190624-0248-MIUI-v7.zip"
 }
