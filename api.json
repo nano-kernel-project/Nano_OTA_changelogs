@@ -7,7 +7,7 @@
          "md5":"028e5c746a0f92704c92c719532a9bb6",
          "release_number":"v7",
          "url":"https://master.dl.sourceforge.net/project/nano-releases/AOSP/Nano_Kernel-rosy-20190626-1304-AOSP-v7.zip",
-         "changelogs_url":"https://raw.githubusercontent.com/nano-kernel-project/Nano_OTA_changelogs/master/test_changelogs.txt"
+         "changelog_url":"https://raw.githubusercontent.com/nano-kernel-project/Nano_OTA_changelogs/master/test_changelogs.txt"
       }
    ],
    "MIUI":[  
@@ -18,7 +18,7 @@
          "md5":"fb0dc440e82ac7cb68df9a8b17a05867",
          "release_number":"v7",
          "url":"https://master.dl.sourceforge.net/project/nano-releases/MIUI/Nano_Kernel-rosy-20190626-1308-MIUI-v7.zip",
-         "changelogs_url":"https://raw.githubusercontent.com/nano-kernel-project/Nano_OTA_changelogs/master/test_changelogs.txt"
+         "changelog_url":"https://raw.githubusercontent.com/nano-kernel-project/Nano_OTA_changelogs/master/test_changelogs.txt"
       }
    ]
 }
